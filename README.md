@@ -19,4 +19,6 @@ The z-index of the overlay
 ## NOTES:
 Make sure to set the z-index of any element you'd like to appear on top of the overlay.
 
+[See it in action](http://stephenwidom.com/projects/dimmr/)
+
 *Developed by Stephen Widom - http://stephenwidom.com*
